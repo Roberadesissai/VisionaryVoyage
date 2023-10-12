@@ -1,6 +1,5 @@
 # Data Training & Object Detection Repository
 
-## Repository Name Suggestion: `VisionaryVoyage`
 
 ## 🚀 Welcome to VisionaryVoyage! 🚀
 
